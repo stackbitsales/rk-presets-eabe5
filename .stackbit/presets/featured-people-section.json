@@ -24,10 +24,10 @@
                             },              
                             "altText": "Desmond Eagle Headshot",
                         
-                        "styles": {
-                            "self": {
-                                "textAlign": "center"
-                            }
+                            "styles": {
+                                "self": {
+                                    "textAlign": "center"
+                                }
                         }
                         },
                     }                    
