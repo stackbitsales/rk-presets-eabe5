@@ -17,7 +17,9 @@
                         "lastName": "Eagle",
                         "role": "Founder",
                         "bio": "",
-                        "image"
+                        "image" {
+                            
+                        }
                         "$$type": "ImageBlock",
                             "url": {
                                 "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
