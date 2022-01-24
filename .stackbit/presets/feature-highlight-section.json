@@ -20,6 +20,10 @@
                 "media": {
                     "$$type": "ImageBlock",
                     "url": "/images/hero-1.png",
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "18F16J7nmtuEbKfXRC5pIS"
+                    },
                     "altText": "Hero image"
                 },
                 "styles": {
