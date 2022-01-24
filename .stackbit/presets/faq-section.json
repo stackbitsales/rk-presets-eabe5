@@ -25,7 +25,7 @@
                         "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
                         "styles": {
                             "self": {
-                                
+                                "textAlign": "center"
                             }
                         }
                     },
@@ -35,7 +35,7 @@
                         "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
                         "styles": {
                             "self": {
-                                
+                                "textAlign": "center"
                             }
                         }
                     }
