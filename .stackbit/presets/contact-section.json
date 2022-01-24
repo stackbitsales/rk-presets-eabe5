@@ -119,7 +119,7 @@
                 },
                 "media": {
                     "$$type": "ImageBlock",
-                    "url": {"$$ref":},
+                    "url": {"$$ref":"18F16J7nmtuEbKfXRC5pIS"},
                     "altText": "Contact form image"
                 },
                 "styles": {
