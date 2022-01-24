@@ -27,9 +27,9 @@
                     },
                     {
                         "$$type": "Person",
-                        "firstName": "Desmond",
-                        "lastName": "Eagle",
-                        "role": "Founder",
+                        "firstName": "Hilary",
+                        "lastName": "Ouse",
+                        "role": "COO",
                         "bio": "",
                         "image": {
                             "$$type": "ImageBlock",
