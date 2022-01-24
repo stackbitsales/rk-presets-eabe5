@@ -8,6 +8,7 @@
                 "showDate": "false",
                 "showAuthor": "false",
                 "showExcerpt": "false",
+                "colors": "colors-h",
                 "variant": "variant-b",
                 "actions": [
                     {
