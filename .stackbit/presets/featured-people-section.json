@@ -15,7 +15,7 @@
                         "$$type": "Person",
                         "firstName": "Desmond",
                         "lastName": "Eagle",
-                        "role": "Founder"
+                        "role": "Founder",
                     }
                     "content/data/team/desmond-eagle.json",
                     "content/data/team/hilary-ouse.json"
