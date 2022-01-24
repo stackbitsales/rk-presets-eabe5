@@ -12,9 +12,11 @@
                 "actions": [
                     {
                         "$$type": "Button",
-                        "label": "Try it now",
+                        "label": "Learn More",
+                        "showIcon": true,
+                        "icon": "arrowRight",
                         "url": "/",
-                        "style": "primary"
+                        "style": "link"
                     }
                 ],
                 "items": [
