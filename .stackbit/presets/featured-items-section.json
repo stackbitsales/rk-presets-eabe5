@@ -16,8 +16,8 @@
                         "featuredImage": {
                             "$$type": "ImageBlock",
                             "url": {
-                        "$$ref": "z0jabKas3r8ura3ZIkCOP"
-                    },
+                                "$$ref": "z0jabKas3r8ura3ZIkCOP"
+                            },
                             "altText": "Item image"
                         },
                         "styles": {
