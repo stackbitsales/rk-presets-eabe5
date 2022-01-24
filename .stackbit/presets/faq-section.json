@@ -11,7 +11,9 @@
                 "items": [
                     {
                         "$$type": "ImageBlock",
+                              "$$ref": {
 
+                        }
                     }
                     {
                         "question": "How is this different from what we have today?",
