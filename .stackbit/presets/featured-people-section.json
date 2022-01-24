@@ -5,7 +5,7 @@
             "label": "Featured people light - 2 columns",
             "thumbnail": "images/feat-people-light-2-col-alt.png",
             "data": {
-                ""
+                "$$type": ""
                 "variant": "variant-c",
                 "colors": "colors-h",
                 "title": "About us",
