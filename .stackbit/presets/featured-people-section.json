@@ -11,7 +11,27 @@
                 "subtitle": "Featured people section example",
                 "actions": [],
                 "people": [
-                    
+                    "people": [
+                    {
+                        "$$type": "Person",
+                        "firstName": "Desmond",
+                        "lastName": "Eagle",
+                        "role": "Co-founder & CEO",
+                        "bio": "This is the thing you were missing in your workflow, thank god we have it for you to use.",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
+                            },              
+                            "altText": "Desmond Eagle Headshot",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                }
+                            }
+                        },
+                    }                    
+                ],
                 ],
                 "styles": {
                     "self": {
