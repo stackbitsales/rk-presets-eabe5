@@ -5,6 +5,7 @@
             "label": "Featured posts light - 2 columns",
             "thumbnail": "images/feat-posts-light-2-col.png",
             "data": {
+                "showPost"
                 "variant": "variant-b",
                 "colors": "colors-h",
                 "title": "Featured",
