@@ -76,7 +76,6 @@
                 "elementId": "",
                 "title": "Need Answers?",
                 "subtitle": "We are here to help",
-                "subtitle": "The section subtitle",
                 "actions": [
                     {
                         "$$type": "Button",
