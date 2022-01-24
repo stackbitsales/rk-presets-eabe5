@@ -5,13 +5,12 @@
             "label": "Featured people light - 2 columns",
             "thumbnail": "images/feat-people-light-2-col-alt.png",
             "data": {
-                "elementId": "",
                 "variant": "variant-c",
                 "colors": "colors-h",
                 "title": "About us",
                 "subtitle": "Featured people section example",
                 "actions": [],
-                "people": [  
+                "people": [
                     {
                         "$$type": "Person",
                         "firstName": "Desmond",
