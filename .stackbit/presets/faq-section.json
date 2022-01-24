@@ -76,6 +76,17 @@
                 "elementId": "",
                 "title": "Need Answers?",
                 "subtitle": "We are here to help",
+                "subtitle": "The section subtitle",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "See All",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "url": "/",
+                        "style": "link"
+                    }
+                ],
                 "items": [
                     {
                         "$$type": "FaqItem",
