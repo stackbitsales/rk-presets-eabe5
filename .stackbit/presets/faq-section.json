@@ -11,7 +11,7 @@
                 "items": [
                     {
                         "$$type": "ImageBlock",
-                              "$$ref": {
+                        "$$ref": {
 
                         }
                     }
