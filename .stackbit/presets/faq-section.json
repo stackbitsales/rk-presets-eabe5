@@ -9,7 +9,13 @@
                 "elementId": "",
                 "title": "Need Answers?",
                 "subtitle": "The section subtitle",
-                "actions": [],
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Try it now",
+                        "url": "/",
+                        "style": "primary"
+                    }],
                 "items": [
                     {
                         "$$type": "FaqItem",
