@@ -11,7 +11,7 @@
                 "items": [
                     {
                         "$$type": "Items",
-                        "$$url": {
+                        "url": {
                             "$$ref": "3uAKDDWaE6PAIGDymUl4OB"
                         }
                     }
