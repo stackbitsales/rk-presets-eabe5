@@ -126,7 +126,9 @@
                 ],
                 "media": {
                     "$$type": "ImageBlock",
-                    "url": "/images/hero-3.jpg",
+                    "url": {
+                        "$$ref": "qUVr161WvmcBvHHKj08uh"
+                    },
                     "altText": "Hero image"
                 },
                 "styles": {
