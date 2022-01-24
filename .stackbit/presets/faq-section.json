@@ -15,7 +15,8 @@
                         "label": "Try it now",
                         "url": "/",
                         "style": "primary"
-                    }],
+                    }
+                ],
                 "items": [
                     {
                         "$$type": "FaqItem",
