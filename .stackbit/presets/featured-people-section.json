@@ -16,6 +16,8 @@
                         "firstName": "Desmond",
                         "lastName": "Eagle",
                         "role": "Founder",
+                        "bio": "",
+                        ""
                     }
                     "content/data/team/desmond-eagle.json",
                     "content/data/team/hilary-ouse.json"
