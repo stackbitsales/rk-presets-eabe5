@@ -36,7 +36,9 @@
                     "actions": {
                         "justifyContent": "center"
                     }
-                }
+                },
+                "title": "Featured",
+                "subtitle": "Featured blog posts section example",
             }
         },
         {
