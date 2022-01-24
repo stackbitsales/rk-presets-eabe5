@@ -38,7 +38,9 @@
                 "colors": "colors-c",
                 "backgroundImage": {
                     "url": "/images/bg.jpg",
-                    
+                    "url": {
+                        "$$ref": "qUVr161WvmcBvHHKj08uh"
+                    },
                     "altText": "Product Marketing Manager Quote",
                     "styles": {
                         "self": {
