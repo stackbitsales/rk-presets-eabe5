@@ -85,7 +85,7 @@ export default class FormBlock extends React.Component<any> {
             >
                 <div className={classNames('w-full', 'flex', 'flex-col', { 'sm:flex-row': variant === 'variant-b' })}>
                     <div
-                        className={classNames('grid', 'gap-y-4', 'sm:grid-cols-2', 'sm:gap-x-4', { 'sm:flex-grow': variant === 'variant-b' })}
+                        className={classNames('grid', 'gap-y-10', 'sm:grid-cols-2', 'sm:gap-x-4', { 'sm:flex-grow': variant === 'variant-b' })}
                         data-sb-field-path=".fields"
                     >
                         <input type="hidden" name="form-name" value={elementId} />
