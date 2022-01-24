@@ -10,6 +10,8 @@
                 "showExcerpt": "false",
                 "colors": "colors-h",
                 "variant": "variant-b",
+                "title": "Featured",
+                "subtitle": "Featured blog posts section example",
                 "actions": [
                     {
                         "$$type": "Button",
