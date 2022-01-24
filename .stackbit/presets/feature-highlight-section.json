@@ -67,7 +67,9 @@
                 ],
                 "media": {
                     "$$type": "ImageBlock",
-                    "url": "/images/hero-2.png",
+                    "url": {
+                        "$$ref": "5RywGMcppvGaZFqGrJEoaW"
+                    },
                     "altText": "Hero image"
                 },
                 "styles": {
