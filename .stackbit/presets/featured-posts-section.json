@@ -14,7 +14,7 @@
                 "showExcerpt": "false",
                 "posts": [
                     {
-                    "$$ref": "post"
+                    "$$ref": "postLayout"
                     "title": "Surround Yourself With the Right People",
                     }
 
