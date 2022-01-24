@@ -24,21 +24,7 @@
                             },              
                             "altText": "Desmond Eagle Headshot"
                         },
-                    },
-                    {
-                        "$$type": "Person",
-                        "firstName": "Hilary",
-                        "lastName": "Ouse",
-                        "role": "COO",
-                        "bio": "",
-                        "image": {
-                            "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "13cCABu23ZnxcKw3C6lPxt"
-                            },              
-                            "altText": "Hilary Ouse Headshot"
-                        },
-                    }
+                    }                    
                 ],
                 "styles": {
                     "self": {
