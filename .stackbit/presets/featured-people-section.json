@@ -18,6 +18,11 @@
                         "role": "Founder",
                         "bio": "",
                         "image": ""
+                        "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "z0jabKas3r8ura3ZIkCOP"
+                            },
+                            "altText": "Item image"
                     }
                     "content/data/team/desmond-eagle.json",
                     "content/data/team/hilary-ouse.json"
