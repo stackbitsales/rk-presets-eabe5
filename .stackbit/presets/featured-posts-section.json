@@ -18,8 +18,19 @@
                     "title": "Surround Yourself With the Right People",
                     "date": "",
                     "author": {
-                        
-                    }
+                        "$$type": "Person",
+                        "firstName": "Desmond",
+                        "lastName": "Eagle",
+                        "role": "Founder",
+                        "bio": "",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
+                            },              
+                            "altText": "Desmond Eagle Headshot"
+                        },
+                    },
                     }
 
                 ],
