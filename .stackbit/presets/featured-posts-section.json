@@ -6,7 +6,7 @@
             "thumbnail": "images/feat-posts-light-2-col.png",
             "data": {
                 "showDate": "false",
-                "showDate": "false",
+                "showAuthor": "false",
                 "showDate": "false",
                 "variant": "variant-b",
                 "colors": "colors-h",
