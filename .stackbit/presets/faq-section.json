@@ -10,7 +10,7 @@
                 "title": "Need Answers?",
                 "items": [
                     {
-                        "$$type": "Item",
+                        "$$type": "items",
                         "$$ref": {
                             "$$ref": "3uAKDDWaE6PAIGDymUl4OB"
                         }
