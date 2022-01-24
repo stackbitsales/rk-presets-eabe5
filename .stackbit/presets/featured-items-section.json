@@ -32,7 +32,9 @@
                         "text": "Learn how top tech companies have learned working remote using our product.",
                         "featuredImage": {
                             "$$type": "ImageBlock",
-                            "url": "/images/smarter.svg",
+                            "url": {
+                                "$$ref": "z0jabKas3r8ura3ZIkCOP"
+                            },
                             "altText": "Item image"
                         },
                         "styles": {
