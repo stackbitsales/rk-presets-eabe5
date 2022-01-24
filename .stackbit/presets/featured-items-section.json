@@ -13,7 +13,7 @@
                         "$$type": "FeaturedItem",
                         "title": "Faster",
                         "text": "Learn how top tech companies have learned working remote using our product.",
-                        "featuredImage": {
+                        "image": {
                             "$$type": "ImageBlock",
                             "url": {
                                 "$$ref": "z0jabKas3r8ura3ZIkCOP"
