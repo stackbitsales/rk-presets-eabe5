@@ -18,8 +18,8 @@
                             "$$type": "ImageBlock",
                             "url": "/images/carla.jpg",
                             "url": {
-                        "$$ref": "qUVr161WvmcBvHHKj08uh"
-                    },
+                                "$$ref": "qUVr161WvmcBvHHKj08uh"
+                            },
                             "altText": "Photo of Carla Rogers"
                         }
                     }
