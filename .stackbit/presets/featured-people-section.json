@@ -18,10 +18,10 @@
                         "role": "Founder",
                         "bio": "",
                         "image" {
-                            "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
-                            },                    
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
+                        },                    
                         "altText": "Desmond Eagle Headshot"
                         },
                     }
