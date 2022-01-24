@@ -16,9 +16,8 @@
                         "title": "Happy customer",
                         "image": {
                             "$$type": "ImageBlock",
-                            "url": "/images/carla.jpg",
                             "url": {
-                                "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
                             },
                             "altText": "Photo of Carla Rogers"
                         }
