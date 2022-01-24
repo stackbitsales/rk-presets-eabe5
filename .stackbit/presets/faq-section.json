@@ -9,7 +9,8 @@
                 "elementId": "",
                 "title": "Need Answers?",
                 "items": [
-                    {"$$type": "ImageBlock",
+                    {
+                        "$$type": "ImageBlock",
                     }
                     {
                         "question": "How is this different from what we have today?",
