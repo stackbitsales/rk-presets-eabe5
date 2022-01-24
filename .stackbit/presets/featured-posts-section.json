@@ -9,6 +9,9 @@
                 "variant": "variant-b",
                 "title": "Featured",
                 "subtitle": "Featured blog posts section example",
+                "showDate": "false",
+                "showAuthor": "false",
+                "showExcerpt": "false",
                 "actions": [
                     {
                         "$$type": "Button",
