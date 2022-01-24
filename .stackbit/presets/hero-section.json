@@ -21,8 +21,8 @@
                     "$$type": "ImageBlock",
                     "url": "/images/hero.png",
                     "url": {
-                                "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
-                            },
+                        "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
+                    },
                     "altText": "Hero image"
                 },
                 "styles": {
