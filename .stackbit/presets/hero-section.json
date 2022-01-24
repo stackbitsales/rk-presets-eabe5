@@ -19,7 +19,6 @@
                 ],
                 "media": {
                     "$$type": "ImageBlock",
-                    "url": "/images/hero.png",
                     "url": {
                         "$$ref": "qUVr161WvmcBvHHKj08uh"
                     },
