@@ -22,6 +22,42 @@
                             }
                         }   
                     },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
                 ],
                 "spacing": 2,
                 "columns": 4,
