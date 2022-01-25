@@ -26,7 +26,6 @@
                     {
                         "$$ref": "PostLayout",
                         "title": "Surround Yourself With the Right People",
-                        "date": ,
                         "author": {
                             "$$type": "Person",
                             "firstName": "Desmond",
