@@ -91,7 +91,7 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-28", "pb-28", "pl-5", "pr-5"],
+                        "padding": ["pt-28", "pb-28", "pl-4", "pr-5"],
                         "justifyContent": "center"
                     },
                     "title": {
