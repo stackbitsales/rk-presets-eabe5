@@ -340,7 +340,11 @@
                                     "url": {
                                         "$$ref": "6NgdQK35vdwaqE8q4sEJlX"
                                     },
-                                    "altText": "Item image"
+                                    "altText": "Item image",
+                                    "styles": {
+                                        "self": {
+                                        }
+                                    } 
                                 },
                                 "styles": {
                                     "self": {
