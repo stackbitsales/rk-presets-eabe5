@@ -352,31 +352,6 @@
                                     }
                                 }
                             }
-                            {
-                                "$$type": "FeaturedItem",
-                                "title": "Focused",
-                                "text": "Learn how top tech companies have learned working remote using our product.",
-                                "featuredImage": {
-                                    "$$type": "ImageBlock",
-                                    "url": {
-                                        "$$ref": "6NgdQK35vdwaqE8q4sEJlX"
-                                    },
-                                    "altText": "Item image",
-                                    "styles": {
-                                        "self": {
-                                        }
-                                    } 
-                                },
-                                "styles": {
-                                    "self": {
-                                        "textAlign": "left",
-                                        "padding": ["pt-4", "pb-6", "pl-4", "pr-4"],
-                                        "borderColor": "border-dark",
-                                        "borderStyle": "solid",
-                                        "borderWidth": 1
-                                    }
-                                }
-                            }
                         ],
                         "columns": 3,
                         "enableHover": false,
