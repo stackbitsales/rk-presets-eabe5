@@ -186,7 +186,11 @@
                                     "$$ref": "3XzdhF8YbCXrTLtf4AG6X7"
                                 },
                                 "caption": "Google Play",
-                                "altText": "Google Play"
+                                "altText": "Google Play",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             },
                             {
                                 "$$type": "ImageBlock",
