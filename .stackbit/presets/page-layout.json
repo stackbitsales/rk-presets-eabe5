@@ -891,7 +891,9 @@
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/post-2.jpg",
+                                "url": {
+                                    "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
+                                },
                                 "caption": "Team meeting",
                                 "altText": "Team meeting"
                             }
