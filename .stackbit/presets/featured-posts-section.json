@@ -10,6 +10,15 @@
                 "showAuthor": false,
                 "showExcerpt": false,
                 "variant": "variant-b",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "View All",
+                        "altText": "View All Posts",
+                        "url": "/blog",
+                        "style": "primary"
+                    }
+                ],
                 "title": "Featured",
                 "subtitle": "Featured blog posts section example",
                 "colors": "colors-h",
