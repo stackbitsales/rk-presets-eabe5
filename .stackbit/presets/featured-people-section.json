@@ -101,8 +101,8 @@
                     },
                     {
                         "$$type": "Person",
-                        "firstName": "Ursula",
-                        "lastName": "Gurnmeister",
+                        "firstName": "Dianne",
+                        "lastName": "Ameter",
                         "role": "Designer",
                         "bio": "This is the thing you were missing in your workflow, thank god we have it for you to use.",
                         "image": {
