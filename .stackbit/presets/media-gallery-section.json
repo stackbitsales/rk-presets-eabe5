@@ -15,7 +15,7 @@
                                 "url": "/images/apple.svg",
                                 "caption": "Apple",
                                 "altText": "Apple"
-                            },
+                    },
                     {
                         "image": {
                             "$$type": "ImageBlock",
