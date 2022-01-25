@@ -21,7 +21,10 @@
                             },
                             "altText": "Photo of Carla Rogers"
                         },
-                        
+                        "styles": {
+                            "self": {
+                            }
+                        } 
                     }
                 ],
                 "styles": {
