@@ -11,7 +11,7 @@
                 "subtitle": "This is the subtitle",
                 "images": [
                     {
-                        "image": {
+                        
                             "$$type": "ImageBlock",
                             "elementId": "",
                             "altText": "Hilary Ouse Headshot",
