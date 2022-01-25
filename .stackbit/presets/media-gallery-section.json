@@ -12,7 +12,6 @@
                 "images": [
                     {
                         "$$type": "ImageBlock",
-                        "elementId": "",
                         "altText": "Hilary Ouse Headshot",
                         "caption": "This is the first image in the Gallery.",
                         "url": {
