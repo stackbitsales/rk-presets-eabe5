@@ -17,6 +17,7 @@
                         },
                         "altText": "Work book cover 3",
                         "caption": "This is the first image in the Gallery.",
+                        "elementId": "",
                         "styles": {
                             "self": {
                             }
