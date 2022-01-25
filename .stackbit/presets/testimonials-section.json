@@ -62,7 +62,8 @@
                 "subtitle": "",
                 "testimonials": [
                     {
-                        "quote": "\"Such a great experience to be using this product. It really helped with what I needed help with.\"\n",
+                        "$$type": "Testimonial",
+                        "quote": "Such a great experience to be using this product. It really helped with what I needed help with.",
                         "name": "Carla Rogers",
                         "title": "Happy customer",
                         "image": {
@@ -70,7 +71,18 @@
                             "url": {
                                 "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
                             },
-                            "altText": "Photo of Carla Rogers"
+                            "altText": "Photo of Carla Rogers",
+                            "caption": "Carla Rogers",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                }
+                            } 
+                        },
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
                         }
                     }
                 ],
