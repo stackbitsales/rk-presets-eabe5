@@ -37,15 +37,6 @@
                     }
 
                 ],
-                "actions": [
-                    {
-                        "$$type": "Button",
-                        "label": "View All",
-                        "altText": "View All Posts",
-                        "url": "/blog",
-                        "style": "primary"
-                    }
-                ],
                 "styles": {
                     "self": {
                         "height": "auto",
