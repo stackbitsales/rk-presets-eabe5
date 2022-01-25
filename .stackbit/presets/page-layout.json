@@ -162,7 +162,9 @@
                         "images": [
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/apple.svg",
+                                "url": {
+                                "$$ref": "qUVr161WvmcBvHHKj08uh"
+                            },
                                 "caption": "Apple",
                                 "altText": "Apple"
                             },
