@@ -10,7 +10,7 @@
                 "subtitle": "This is the subtitle",
                 "columns": 4,
                 "aspectRatio": "16:9",
-                
+                "images": []
                 "styles": {
                     "self": {
                         "height": "auto",
