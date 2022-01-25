@@ -959,7 +959,11 @@
                                     "$$ref": "4GPtnVaPthEc1AkQYBP2vg"
                                 },
                                 "caption": "Team meeting",
-                                "altText": "Team meeting"
+                                "altText": "Team meeting",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             }
                         ],
                         "columns": 2,
