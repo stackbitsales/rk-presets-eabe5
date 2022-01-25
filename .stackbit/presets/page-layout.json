@@ -317,9 +317,9 @@
                                     },
                                     "altText": "Item image",
                                     "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                        "self": {
+                                        }
+                                    } 
                                 },
                                 "styles": {
                                     "self": {
