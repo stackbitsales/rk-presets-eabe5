@@ -8,11 +8,11 @@
                 "elementId": "",
                 "variant": "variant-b",
                 "colors": "colors-h",
-                "title": "Featured",
-                "subtitle": "Featured blog posts section example",
-                "showDate": false,
+                 "showDate": false,
                 "showAuthor": false,
                 "showExcerpt": false,
+                "title": "Featured",
+                "subtitle": "Featured blog posts section example",
                 "posts": [
                     {
                     "$$ref": "PostLayout",
