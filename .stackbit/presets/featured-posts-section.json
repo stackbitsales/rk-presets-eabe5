@@ -50,16 +50,16 @@
                     "excerpt": "When you surround yourself with the right people you find yourself becoming more healthy, wealthy, and happy.",
                     "featuredImage": {
                         "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
-                            },              
-                            "altText": "Desmond Eagle Headshot",
-                            "caption": "Desmond Eagle",
-                            "elementId": "",
-                            "styles": {
-                                "self": {
-                                }
-                            } 
+                        "url": {
+                            "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
+                        },              
+                        "altText": "Desmond Eagle Headshot",
+                        "caption": "Desmond Eagle",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        } 
                     },
                     "sections": [],
                     "slug": "",
