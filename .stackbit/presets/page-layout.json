@@ -884,8 +884,8 @@
                             {
                                 "$$type": "ImageBlock",
                                 "url": {
-                                "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
-                            },
+                                    "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
+                                },
                                 "caption": "Meeting room",
                                 "altText": "People in the meeting room"
                             },
