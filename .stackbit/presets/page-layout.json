@@ -176,6 +176,7 @@
                                 },
                                 "caption": "Apple",
                                 "altText": "Apple",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
@@ -188,6 +189,7 @@
                                 },
                                 "caption": "Google Play",
                                 "altText": "Google Play",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
@@ -200,6 +202,7 @@
                                 },
                                 "caption": "PlayStation",
                                 "altText": "PlayStation",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
@@ -212,6 +215,7 @@
                                 },
                                 "caption": "Gatsby",
                                 "altText": "Gatsby",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
@@ -224,6 +228,7 @@
                                 },
                                 "caption": "Xbox",
                                 "altText": "Xbox",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
@@ -236,6 +241,7 @@
                                 },
                                 "caption": "Apple",
                                 "altText": "Apple",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
@@ -248,6 +254,7 @@
                                 },
                                 "caption": "ZCOOL",
                                 "altText": "ZCOOL",
+                                "elementId": "",
                                 "styles": {
                                     "self": {
                                     }
