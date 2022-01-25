@@ -6,7 +6,7 @@
             "thumbnail": "images/media-gallery-light-4-col.png",
             "data": {
                 "colors": "colors-a",
-                "element"
+                "elementId": "",
                 "title": "Gallery",
                 "subtitle": "This is the subtitle",
                 "columns": 4,
