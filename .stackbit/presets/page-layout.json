@@ -2,10 +2,10 @@
     "model": "PageLayout",
     "presets": [
         {
-            "label":"Empty page",
-            "thumbnail":"images/page-empty.png",
-            "data":{
-                "title":"Empty page",
+            "label": "Empty page",
+            "thumbnail": "images/page-empty.png",
+            "data": {
+                "title": "Empty page",
                 "sections": [
                     {
                         "$$type": "TextSection",
@@ -16,8 +16,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-12", "ml-0", "mr-0"],
-                                "padding": ["pt-12", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-12",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -33,7 +43,6 @@
                     }
                 ]
             }
-
         },
         {
             "label": "Landing",
@@ -42,54 +51,65 @@
                 "title": "Landing",
                 "sections": [
                     {
-                        "label": "Hero light - image right",
-                        "thumbnail": "images/hero-light-image-right.png",
-                        "data": {
-                            "colors": "colors-a",
-                            "title": "Love where you work",
-                            "subtitle": "",
-                            "text": "One platform, one community, getting to the bottom line of everything employment.  Figure out your benefits, practice for interviews, get mentored, help peers, get helped in return.",
-                            "actions": [
-                                {
-                                    "$$type": "Button",
-                                    "label": "Sign Up",
-                                    "url": "/",
-                                    "style": "primary"
-                                }
-                            ],
-                            "media": {
-                                "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
-                                },
-                                "altText": "Hero image",
-                                "styles": {
-                                    "self": {
-                                    }
-                                } 
+                        "$$type": "HeroSection",
+                        "colors": "colors-a",
+                        "title": "Love where you work, because work loves you",
+                        "subtitle": "One platform, one community.",
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Get Started",
+                                "url": "/",
+                                "style": "primary"
                             },
+                            {
+                                "$$type": "Link",
+                                "label": "Learn More",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowRight",
+                                "iconPosition": "right"
+                            }
+                        ],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": { "$$ref": "qUVr161WvmcBvHHKj08uh" },
+                            "altText": "Hero section image",
                             "styles": {
-                                "self": {
-                                    "height": "auto",
-                                    "width": "wide",
-                                    "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                    "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
-                                    "alignItems": "center",
-                                    "justifyContent": "center",
-                                    "flexDirection": "row"
-                                },
-                                "title": {
-                                    "textAlign": "left"
-                                },
-                                "subtitle": {
-                                    "textAlign": "left"
-                                },
-                                "text": {
-                                    "textAlign": "left"
-                                },
-                                "actions": {
-                                    "justifyContent": "flex-start"
-                                }
+                                "self": {}
+                            }
+                        },
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-12",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "flexDirection": "row"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "text": {
+                                "textAlign": "left"
+                            },
+                            "actions": {
+                                "justifyContent": "flex-start"
                             }
                         }
                     },
@@ -127,21 +147,28 @@
                         ],
                         "media": {
                             "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "qUVr161WvmcBvHHKj08uh"
-                            },
-                            "altText": "Hero image",
+                            "url": { "$$ref": "7kcDWvhCA84C25h5BRKYgq" },
+                            "altText": "Team meeting",
                             "styles": {
-                                "self": {
-                                }
-                            } 
+                                "self": {}
+                            }
                         },
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-20", "ml-4", "mr-4"],
-                                "padding": ["pt-24", "pb-16", "pl-16", "pr-16"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-20",
+                                    "ml-4",
+                                    "mr-4"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-16",
+                                    "pl-16",
+                                    "pr-16"
+                                ],
                                 "justifyContent": "center",
                                 "flexDirection": "row",
                                 "alignItems": "center",
@@ -165,100 +192,71 @@
                     {
                         "$$type": "MediaGallerySection",
                         "colors": "colors-h",
-                        "elementId": "",
                         "title": "",
                         "subtitle": "Trusted by",
                         "images": [
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "3XzdhF8YbCXrTLtf4AG6X7"
-                                },
+                                "url": { "$$ref": "3XzdhF8YbCXrTLtf4AG6X7" },
                                 "caption": "Apple",
                                 "altText": "Apple",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "3XzdhF8YbCXrTLtf4AG6X7"
-                                },
+                                "url": { "$$ref": "2Uvnc7CKdmFKm8K38cKBxL" },
                                 "caption": "Google Play",
                                 "altText": "Google Play",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "2ptDdXkZWbh3PbCeqJdzjU"
-                                },
+                                "url": { "$$ref": "2ptDdXkZWbh3PbCeqJdzjU" },
                                 "caption": "PlayStation",
                                 "altText": "PlayStation",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "4g9MQR974WNAH9UEB20JWN"
-                                },
+                                "url": { "$$ref": "4g9MQR974WNAH9UEB20JWN" },
                                 "caption": "Gatsby",
                                 "altText": "Gatsby",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "2GEGw03o8QxnNAd51gS6sL"
-                                },
+                                "url": { "$$ref": "2GEGw03o8QxnNAd51gS6sL" },
                                 "caption": "Xbox",
                                 "altText": "Xbox",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "3XzdhF8YbCXrTLtf4AG6X7"
-                                },
+                                "url": { "$$ref": "2g6jSpfJafDwLEIb0mKNq0" },
                                 "caption": "Apple",
                                 "altText": "Apple",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "3ZuvCkX3BBUMzNIKY2dpzj"
-                                },
+                                "url": { "$$ref": "3ZuvCkX3BBUMzNIKY2dpzj" },
                                 "caption": "ZCOOL",
                                 "altText": "ZCOOL",
-                                "elementId": "",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             }
                         ],
                         "columns": 7,
@@ -271,8 +269,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-12", "pb-24", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -295,15 +303,21 @@
                                 "text": "Learn how top tech companies have learned working remote using our product.",
                                 "featuredImage": {
                                     "$$type": "ImageBlock",
-                                    "url": {
-                                        "$$ref": "z0jabKas3r8ura3ZIkCOP"
-                                    },
-                                    "altText": "Item image"
+                                    "url": { "$$ref": "z0jabKas3r8ura3ZIkCOP" },
+                                    "altText": "Item image",
+                                    "styles": {
+                                        "self": {}
+                                    }
                                 },
                                 "styles": {
                                     "self": {
                                         "textAlign": "left",
-                                        "padding": ["pt-4", "pb-6", "pl-4", "pr-4"],
+                                        "padding": [
+                                            "pt-4",
+                                            "pb-6",
+                                            "pl-4",
+                                            "pr-4"
+                                        ],
                                         "borderColor": "border-dark",
                                         "borderStyle": "solid",
                                         "borderWidth": 1
@@ -316,15 +330,21 @@
                                 "text": "Learn how top tech companies have learned working remote using our product.",
                                 "featuredImage": {
                                     "$$type": "ImageBlock",
-                                    "url": {
-                                        "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
-                                    },
-                                    "altText": "Item image"
+                                    "url": { "$$ref": "M4wKWJIXhTrOs5EyiaX6a" },
+                                    "altText": "Item image",
+                                    "styles": {
+                                        "self": {}
+                                    }
                                 },
                                 "styles": {
                                     "self": {
                                         "textAlign": "left",
-                                        "padding": ["pt-4", "pb-6", "pl-4", "pr-4"],
+                                        "padding": [
+                                            "pt-4",
+                                            "pb-6",
+                                            "pl-4",
+                                            "pr-4"
+                                        ],
                                         "borderColor": "border-dark",
                                         "borderStyle": "solid",
                                         "borderWidth": 1
@@ -337,15 +357,21 @@
                                 "text": "Learn how top tech companies have learned working remote using our product.",
                                 "featuredImage": {
                                     "$$type": "ImageBlock",
-                                    "url": {
-                                        "$$ref": "6NgdQK35vdwaqE8q4sEJlX"
-                                    },
-                                    "altText": "Item image"
+                                    "url": { "$$ref": "6NgdQK35vdwaqE8q4sEJlX" },
+                                    "altText": "Item image",
+                                    "styles": {
+                                        "self": {}
+                                    }
                                 },
                                 "styles": {
                                     "self": {
                                         "textAlign": "left",
-                                        "padding": ["pt-4", "pb-6", "pl-4", "pr-4"],
+                                        "padding": [
+                                            "pt-4",
+                                            "pb-6",
+                                            "pl-4",
+                                            "pr-4"
+                                        ],
                                         "borderColor": "border-dark",
                                         "borderStyle": "solid",
                                         "borderWidth": 1
@@ -353,15 +379,24 @@
                                 }
                             }
                         ],
-                        "actions": [],
                         "columns": 3,
                         "enableHover": false,
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-28", "pb-28", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-28",
+                                    "pb-28",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -395,21 +430,28 @@
                         ],
                         "media": {
                             "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "5RywGMcppvGaZFqGrJEoaW"
-                            },
+                            "url": { "$$ref": "5RywGMcppvGaZFqGrJEoaW" },
                             "altText": "Hero section image",
                             "styles": {
-                                "self": {
-                                }
-                            } 
+                                "self": {}
+                            }
                         },
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-36", "pb-6", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-36",
+                                    "pb-6",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center",
                                 "flexDirection": "row",
                                 "alignItems": "center"
@@ -451,21 +493,28 @@
                         ],
                         "media": {
                             "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "4zjecsziD4fm4O7bvfw2fk"
-                            },
+                            "url": { "$$ref": "4zjecsziD4fm4O7bvfw2fk" },
                             "altText": "Hero section image",
                             "styles": {
-                                "self": {
-                                }
-                            } 
+                                "self": {}
+                            }
                         },
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-6", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-6",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center",
                                 "flexDirection": "row-reverse",
                                 "alignItems": "center"
@@ -486,10 +535,6 @@
                     },
                     {
                         "$$type": "FeaturedPostsSection",
-                        "elementId": "",
-                        "showDate": true,
-                        "showAuthor": false,
-                        "showExcerpt": false,
                         "colors": "colors-a",
                         "variant": "variant-b",
                         "title": "We sometimes write things. You should read it, it might shed some  light on why we’re doing what we’re doing",
@@ -503,20 +548,27 @@
                                 "iconPosition": "right"
                             }
                         ],
+                        "showDate": true,
                         "posts": [
-                            {
-                                "$$ref": "2R5tigAtp0wVA0xYN7PuKI"
-                            },
-                            {
-                                "$$ref": "fpBeR1EbYFopzl7jvHR5y"
-                            }
+                            "content/pages/blog/post-four.md",
+                            "content/pages/blog/post-three.md"
                         ],
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-0", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-0",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -547,36 +599,34 @@
                         ],
                         "items": [
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                }
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                }  
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                }                                
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             }
                         ],
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-20", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-20",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -595,26 +645,15 @@
                         "subtitle": "",
                         "testimonials": [
                             {
-                                "$$type": "Testimonial",
-                                "quote": "Such a great experience to be using this product. It really helped with what I needed help with.",
+                                "quote": "## Such a great experience to be using this product. It really helped with what I needed help with.",
                                 "name": "Carla Rogers",
                                 "title": "Happy customer",
                                 "image": {
                                     "$$type": "ImageBlock",
-                                    "url": {
-                                        "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
-                                    },
+                                    "url": { "$$ref": "3SqhXAnGWUjEUL0wL2tpAP" },
                                     "altText": "Photo of Carla Rogers",
-                                    "caption": "Carla Rogers",
-                                    "elementId": "",
                                     "styles": {
-                                        "self": {
-                                        }
-                                    } 
-                                },
-                                "elementId": "",
-                                "styles": {
-                                    "self": {
+                                        "self": {}
                                     }
                                 }
                             }
@@ -623,8 +662,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-28", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-28",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -669,8 +718,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-24", "mb-0", "ml-4", "mr-4"],
-                                "padding": ["pt-24", "pb-24", "pl-12", "pr-12"],
+                                "margin": [
+                                    "mt-24",
+                                    "mb-0",
+                                    "ml-4",
+                                    "mr-4"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-12",
+                                    "pr-12"
+                                ],
                                 "alignItems": "center",
                                 "justifyContent": "center",
                                 "flexDirection": "row",
@@ -701,68 +760,50 @@
                         "subtitle": "",
                         "items": [
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             },
                             {
-                                "$$type": "FaqItem",
                                 "question": "How it this different from what we have today?",
-                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation",
-                                "styles": {
-                                    "self": {}
-                                } 
+                                "answer": "At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation"
                             }
                         ],
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-24", "pb-12", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -783,19 +824,25 @@
                         "subtitle": "",
                         "showDate": true,
                         "posts": [
-                            {
-                                "$$ref": "2R5tigAtp0wVA0xYN7PuKI"
-                            },
-                            {
-                                "$$ref": "fpBeR1EbYFopzl7jvHR5y"
-                            }
+                            "content/pages/blog/post-four.md",
+                            "content/pages/blog/post-three.md"
                         ],
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-12", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -842,8 +889,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-24", "mb-0", "ml-4", "mr-4"],
-                                "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-24",
+                                    "mb-0",
+                                    "ml-4",
+                                    "mr-4"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "alignItems": "center",
                                 "justifyContent": "center",
                                 "flexDirection": "row",
@@ -874,22 +931,29 @@
                         "text": "You should join us.",
                         "media": {
                             "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "5EJRvuPhpkMHyFT8u8aGkd"
-                            },
+                            "url": { "$$ref": "5EJRvuPhpkMHyFT8u8aGkd" },
                             "caption": "Team meeting",
                             "altText": "Hero section image",
                             "styles": {
-                                "self": {
-                                }
-                            } 
+                                "self": {}
+                            }
                         },
                         "styles": {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "alignItems": "center",
                                 "justifyContent": "center",
                                 "flexDirection": "col"
@@ -920,8 +984,16 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0"],
-                                "padding": ["pt-12", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "quote": {
@@ -943,27 +1015,21 @@
                         "images": [
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "18F16J7nmtuEbKfXRC5pIS"
-                                },
+                                "url": { "$$ref": "18F16J7nmtuEbKfXRC5pIS" },
                                 "caption": "Meeting room",
                                 "altText": "People in the meeting room",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": {
-                                    "$$ref": "4GPtnVaPthEc1AkQYBP2vg"
-                                },
+                                "url": { "$$ref": "4GPtnVaPthEc1AkQYBP2vg" },
                                 "caption": "Team meeting",
                                 "altText": "Team meeting",
                                 "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                    "self": {}
+                                }
                             }
                         ],
                         "columns": 2,
@@ -976,8 +1042,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-12", "pb-24", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -1081,8 +1157,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "narrow",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "justifyContent": "center"
                             },
                             "title": {
@@ -1141,8 +1227,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-36", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-36",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "alignItems": "center",
                                 "justifyContent": "center",
                                 "flexDirection": "row",
