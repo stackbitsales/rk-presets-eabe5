@@ -302,7 +302,11 @@
                                 },
                                 "styles": {
                                     "self": {
-                                        "textAlign": "center"
+                                        "textAlign": "left",
+                                        "padding": ["pt-4", "pb-6", "pl-4", "pr-4"],
+                                        "borderColor": "border-dark",
+                                        "borderStyle": "solid",
+                                        "borderWidth": 1
                                     }
                                 }
                             },
