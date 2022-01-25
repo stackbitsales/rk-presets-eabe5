@@ -727,8 +727,12 @@
                         "subtitle": "",
                         "showDate": true,
                         "posts": [
-                            "content/pages/blog/post-four.md",
-                            "content/pages/blog/post-three.md"
+                            {
+                                "$$ref": "2R5tigAtp0wVA0xYN7PuKI"
+                            },
+                            {
+                                "$$ref": "fpBeR1EbYFopzl7jvHR5y"
+                            }
                         ],
                         "styles": {
                             "self": {
