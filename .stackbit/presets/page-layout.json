@@ -947,7 +947,11 @@
                                     "$$ref": "18F16J7nmtuEbKfXRC5pIS"
                                 },
                                 "caption": "Meeting room",
-                                "altText": "People in the meeting room"
+                                "altText": "People in the meeting room",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             },
                             {
                                 "$$type": "ImageBlock",
