@@ -90,7 +90,8 @@
             "label": "2 columns light square",
             "thumbnail": "images/media-gallery-light-2-col.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-h",
+                "elementId": "",
                 "title": "Gallery",
                 "subtitle": "This is the subtitle",
                 "columns": 2,
