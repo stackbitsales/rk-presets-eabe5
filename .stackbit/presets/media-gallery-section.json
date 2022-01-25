@@ -11,10 +11,10 @@
                 "subtitle": "This is the subtitle",
                 "images": [
                     {
-                                "$$type": "ImageBlock",
-                                "url": "/images/apple.svg",
-                                "caption": "Apple",
-                                "altText": "Apple"
+                        "$$type": "ImageBlock",
+                        "url": "/images/apple.svg",
+                        "caption": "Apple",
+                        "altText": "Apple"
                     },
                 ],
                 "spacing": 2,
