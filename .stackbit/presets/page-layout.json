@@ -290,7 +290,11 @@
                                     "url": {
                                         "$$ref": "z0jabKas3r8ura3ZIkCOP"
                                     },
-                                    "altText": "Item image"
+                                    "altText": "Item image",
+                                    "styles": {
+                                    "self": {
+                                    }
+                                } 
                                 },
                                 "styles": {
                                     "self": {
