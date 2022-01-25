@@ -137,7 +137,11 @@
                     "url": {
                         "$$ref": "7kcDWvhCA84C25h5BRKYgq"
                     },
-                    "altText": "Hero image"
+                    "altText": "Hero image",
+                    "styles": {
+                        "self": {
+                        }
+                    } 
                 },
                 "styles": {
                     "self": {
