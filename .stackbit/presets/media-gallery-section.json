@@ -30,6 +30,7 @@
                 "aspectRatio": "16:9",
                 "imageSizePx": "250",
                 "showCaption": "false",
+                "enableHover"
                 "styles": {
                     "self": {
                         "height": "auto",
