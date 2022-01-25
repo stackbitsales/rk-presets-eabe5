@@ -123,8 +123,10 @@
                         ],
                         "media": {
                             "$$type": "ImageBlock",
-                            "url": "/images/hero-3.jpg",
-                            "altText": "Team meeting"
+                            "url": {
+                                "$$ref": "qUVr161WvmcBvHHKj08uh"
+                            },
+                            "altText": "Hero image"
                         },
                         "styles": {
                             "self": {
