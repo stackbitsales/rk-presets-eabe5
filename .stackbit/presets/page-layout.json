@@ -165,6 +165,7 @@
                     {
                         "$$type": "MediaGallerySection",
                         "colors": "colors-h",
+                        "elementId:"
                         "title": "",
                         "subtitle": "Trusted by",
                         "images": [
