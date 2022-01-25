@@ -254,6 +254,60 @@
                 "colors": "colors-f",
                 "title": "Gallery",
                 "subtitle": "This is the subtitle",
+                "images": [
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "Gallery image 1",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "Gallery image 2",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "Gallery image 3",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "Gallery image 4",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    }
+                ],
                 "columns": 2,
                 "aspectRatio": "1:1",
                 "styles": {
