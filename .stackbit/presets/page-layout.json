@@ -487,7 +487,7 @@
                     {
                         "$$type": "FeaturedPostsSection",
                         "elementId": "",
-                        "showDate": false,
+                        "showDate": true,
                         "showAuthor": false,
                         "showExcerpt": false,
                         "colors": "colors-a",
