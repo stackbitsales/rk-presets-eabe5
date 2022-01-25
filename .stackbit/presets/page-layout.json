@@ -175,10 +175,10 @@
                                 },
                                 "caption": "Apple",
                                 "altText": "Apple",
-                            "styles": {
-                                "self": {
-                                }
-                            } 
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             },
                             {
                                 "$$type": "ImageBlock",
