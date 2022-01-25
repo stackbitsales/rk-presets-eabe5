@@ -210,7 +210,11 @@
                                     "$$ref": "4g9MQR974WNAH9UEB20JWN"
                                 },
                                 "caption": "Gatsby",
-                                "altText": "Gatsby"
+                                "altText": "Gatsby",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             },
                             {
                                 "$$type": "ImageBlock",
