@@ -23,7 +23,9 @@
                 "subtitle": "Featured blog posts section example",
                 "colors": "colors-h",
                 "posts": [
-                    
+                    {
+                        "$$ref": "PostLayout"
+                    }
                 ],
                 "styles": {
                     "self": {
