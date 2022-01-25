@@ -94,6 +94,60 @@
                 "elementId": "",
                 "title": "Gallery",
                 "subtitle": "This is the subtitle",
+                "images": [
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
+                        "altText": "Work book cover 3",
+                        "caption": "This is the first image in the Gallery.",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                            }
+                        }   
+                    }
+                ],
                 "columns": 2,
                 "aspectRatio": "1:1",
                 "styles": {
