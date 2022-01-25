@@ -6,11 +6,11 @@
             "thumbnail": "images/feat-posts-light-2-col.png",
             "data": {
                 "elementId": "",
-                "variant": "variant-b",
-                "colors": "colors-h",
                 "showDate": false,
                 "showAuthor": false,
                 "showExcerpt": false,
+                "variant": "variant-b",
+                "colors": "colors-h",
                 "title": "Featured",
                 "subtitle": "Featured blog posts section example",
                 "posts": [
