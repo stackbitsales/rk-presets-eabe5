@@ -10,9 +10,9 @@
                 "colors": "colors-h",
                 "title": "Featured",
                 "subtitle": "Featured blog posts section example",
-                "showDate": "false",
-                "showAuthor": "false",
-                "showExcerpt": "false",
+                "showDate": false,
+                "showAuthor": false,
+                "showExcerpt": false,
                 "posts": [
                     {
                     "$$ref": "PostLayout",
