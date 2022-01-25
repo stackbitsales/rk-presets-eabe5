@@ -457,7 +457,11 @@
                             "url": {
                                 "$$ref": "4zjecsziD4fm4O7bvfw2fk"
                             },
-                            "altText": "Hero section image"
+                            "altText": "Hero section image",
+                            "styles": {
+                                    "self": {
+                                    }
+                                } 
                         },
                         "styles": {
                             "self": {
