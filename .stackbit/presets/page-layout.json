@@ -401,7 +401,11 @@
                             "url": {
                                 "$$ref": "5RywGMcppvGaZFqGrJEoaW"
                             },
-                            "altText": "Hero section image"
+                            "altText": "Hero section image",
+                            "styles": {
+                                    "self": {
+                                    }
+                                } 
                         },
                         "styles": {
                             "self": {
