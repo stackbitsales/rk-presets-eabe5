@@ -818,7 +818,9 @@
                         "text": "You should join us.",
                         "media": {
                             "$$type": "ImageBlock",
-                            "url": "/images/hero-4.jpg",
+                            "url": {
+                                "$$ref": "3SqhXAnGWUjEUL0wL2tpAP"
+                            },
                             "caption": "Team meeting",
                             "altText": "Hero section image"
                         },
