@@ -170,37 +170,49 @@
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/google-play.svg",
+                                "url": {
+                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                },
                                 "caption": "Google Play",
                                 "altText": "Google Play"
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/playstation.svg",
+                                "url": {
+                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                },
                                 "caption": "PlayStation",
                                 "altText": "PlayStation"
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/gatsby.svg",
+                                "url": {
+                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                },
                                 "caption": "Gatsby",
                                 "altText": "Gatsby"
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/xbox.svg",
+                                "url": {
+                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                },
                                 "caption": "Xbox",
                                 "altText": "Xbox"
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/skype.svg",
+                                "url": {
+                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                },
                                 "caption": "Apple",
                                 "altText": "Apple"
                             },
                             {
                                 "$$type": "ImageBlock",
-                                "url": "/images/zcool.svg",
+                                "url": {
+                                    "$$ref": "qUVr161WvmcBvHHKj08uh"
+                                },
                                 "caption": "ZCOOL",
                                 "altText": "ZCOOL"
                             }
