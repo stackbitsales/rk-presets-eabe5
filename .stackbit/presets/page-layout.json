@@ -198,7 +198,11 @@
                                     "$$ref": "2ptDdXkZWbh3PbCeqJdzjU"
                                 },
                                 "caption": "PlayStation",
-                                "altText": "PlayStation"
+                                "altText": "PlayStation",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             },
                             {
                                 "$$type": "ImageBlock",
