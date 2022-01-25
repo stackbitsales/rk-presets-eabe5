@@ -459,9 +459,9 @@
                             },
                             "altText": "Hero section image",
                             "styles": {
-                                    "self": {
-                                    }
-                                } 
+                                "self": {
+                                }
+                            } 
                         },
                         "styles": {
                             "self": {
