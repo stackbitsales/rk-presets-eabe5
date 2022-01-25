@@ -222,7 +222,11 @@
                                     "$$ref": "2GEGw03o8QxnNAd51gS6sL"
                                 },
                                 "caption": "Xbox",
-                                "altText": "Xbox"
+                                "altText": "Xbox",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             },
                             {
                                 "$$type": "ImageBlock",
