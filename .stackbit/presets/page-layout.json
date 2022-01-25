@@ -289,57 +289,57 @@
                         "title": "Remote doesn’t mean alone. Here are so great features",
                         "subtitle": "These are all excellent features that will provide exactly the things you’re looking for.",
                         "items": [
+                                    {
+                                "$$type": "FeaturedItem",
+                                "title": "Faster",
+                                "text": "Learn how top tech companies have learned working remote using our product.",
+                                "featuredImage": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "z0jabKas3r8ura3ZIkCOP"
+                                    },
+                                    "altText": "Item image"
+                                },
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "center"
+                                    }
+                                }
+                            },
                             {
-                        "$$type": "FeaturedItem",
-                        "title": "Faster",
-                        "text": "Learn how top tech companies have learned working remote using our product.",
-                        "featuredImage": {
-                            "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "z0jabKas3r8ura3ZIkCOP"
+                                "$$type": "FeaturedItem",
+                                "title": "Smarter",
+                                "text": "Learn how top tech companies have learned working remote using our product.",
+                                "featuredImage": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
+                                    },
+                                    "altText": "Item image"
+                                },
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "center"
+                                    }
+                                }
                             },
-                            "altText": "Item image"
-                        },
-                        "styles": {
-                            "self": {
-                                "textAlign": "center"
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Focused",
+                                "text": "Learn how top tech companies have learned working remote using our product.",
+                                "featuredImage": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "6NgdQK35vdwaqE8q4sEJlX"
+                                    },
+                                    "altText": "Item image"
+                                },
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "center"
+                                    }
+                                }
                             }
-                        }
-                    },
-                    {
-                        "$$type": "FeaturedItem",
-                        "title": "Smarter",
-                        "text": "Learn how top tech companies have learned working remote using our product.",
-                        "featuredImage": {
-                            "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
-                            },
-                            "altText": "Item image"
-                        },
-                        "styles": {
-                            "self": {
-                                "textAlign": "center"
-                            }
-                        }
-                    },
-                    {
-                        "$$type": "FeaturedItem",
-                        "title": "Focused",
-                        "text": "Learn how top tech companies have learned working remote using our product.",
-                        "featuredImage": {
-                            "$$type": "ImageBlock",
-                            "url": {
-                                "$$ref": "6NgdQK35vdwaqE8q4sEJlX"
-                            },
-                            "altText": "Item image"
-                        },
-                        "styles": {
-                            "self": {
-                                "textAlign": "center"
-                            }
-                        }
-                    }
                             {
                                 "$$type": "FeaturedItem",
                                 "title": "Focused",
