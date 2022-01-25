@@ -315,7 +315,11 @@
                                     "url": {
                                         "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
                                     },
-                                    "altText": "Item image"
+                                    "altText": "Item image",
+                                    "styles": {
+                                    "self": {
+                                    }
+                                } 
                                 },
                                 "styles": {
                                     "self": {
