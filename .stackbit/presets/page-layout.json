@@ -351,8 +351,8 @@
                         "media": {
                             "$$type": "ImageBlock",
                             "url": {
-                                        "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
-                                    },
+                                "$$ref": "M4wKWJIXhTrOs5EyiaX6a"
+                            },
                             "altText": "Hero section image"
                         },
                         "styles": {
