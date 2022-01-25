@@ -24,45 +24,45 @@
                 "colors": "colors-h",
                 "posts": [
                     {
-                    "$$ref": "PostLayout",
-                    "title": "Surround Yourself With the Right People",
-                    "date": "",
-                    "author": {
-                        "$$type": "Person",
-                        "firstName": "Desmond",
-                        "lastName": "Eagle",
-                        "role": "Co-founder & CEO",
-                        "bio": "This is the thing you were missing in your workflow, thank god we have it for you to use.",
-                        "image": {
+                        "$$ref": "PostLayout",
+                        "title": "Surround Yourself With the Right People",
+                        "date": "",
+                        "author": {
+                            "$$type": "Person",
+                            "firstName": "Desmond",
+                            "lastName": "Eagle",
+                            "role": "Co-founder & CEO",
+                            "bio": "This is the thing you were missing in your workflow, thank god we have it for you to use.",
+                            "image": {
+                                "$$type": "ImageBlock",
+                                "elementId": "",
+                                "altText": "Desmond Eagle Headshot",
+                                "url": {
+                                    "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
+                                },              
+                                "styles": {
+                                    "self": {
+                                    }
+                                }
+                            }
+                        },
+                        "excerpt": "When you surround yourself with the right people you find yourself becoming more healthy, wealthy, and happy.",
+                        "featuredImage": {
                             "$$type": "ImageBlock",
-                            "elementId": "",
-                            "altText": "Desmond Eagle Headshot",
                             "url": {
-                                "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
+                                "$$ref": "1bs4I9NSSyFxe5jfvxSOqW"
                             },              
+                            "altText": "Office workers collaborating",
+                            "caption": "Office workers collaborating",
+                            "elementId": "",
                             "styles": {
                                 "self": {
                                 }
-                            }
-                        }
-                    },
-                    "excerpt": "When you surround yourself with the right people you find yourself becoming more healthy, wealthy, and happy.",
-                    "featuredImage": {
-                        "$$type": "ImageBlock",
-                        "url": {
-                            "$$ref": "1bs4I9NSSyFxe5jfvxSOqW"
-                        },              
-                        "altText": "Office workers collaborating",
-                        "caption": "Office workers collaborating",
-                        "elementId": "",
-                        "styles": {
-                            "self": {
-                            }
-                        } 
-                    },
-                    "sections": [],
-                    "slug": "",
-                    "content": ""
+                            } 
+                        },
+                        "sections": [],
+                        "slug": "",
+                        "content": ""
                     }
                 ],
                 "styles": {
