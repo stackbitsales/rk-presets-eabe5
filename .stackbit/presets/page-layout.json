@@ -246,7 +246,11 @@
                                     "$$ref": "3ZuvCkX3BBUMzNIKY2dpzj"
                                 },
                                 "caption": "ZCOOL",
-                                "altText": "ZCOOL"
+                                "altText": "ZCOOL",
+                                "styles": {
+                                    "self": {
+                                    }
+                                } 
                             }
                         ],
                         "columns": 7,
