@@ -22,11 +22,11 @@
                             "altText": "Photo of Carla Rogers",
                             "caption": "Gallery image 1",
                             "elementId": "",
-                        },
-                        "styles": {
+                            "styles": {
                             "self": {
                             }
                         } 
+                        },
                     }
                 ],
                 "styles": {
