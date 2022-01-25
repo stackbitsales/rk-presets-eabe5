@@ -32,19 +32,18 @@
                         "firstName": "Desmond",
                         "lastName": "Eagle",
                         "role": "Co-founder & CEO",
-                        "bio": "",
+                        "bio": "This is the thing you were missing in your workflow, thank god we have it for you to use.",
                         "image": {
                             "$$type": "ImageBlock",
+                            "elementId": "",
+                            "altText": "Desmond Eagle Headshot",
                             "url": {
                                 "$$ref": "2oWTiGupvk1YQkWSV3JiXP"
                             },              
-                            "altText": "Desmond Eagle Headshot",
-                            "caption": "Desmond Eagle",
-                            "elementId": "",
                             "styles": {
                                 "self": {
                                 }
-                            } 
+                            }
                         }
                     },
                     "excerpt": "When you surround yourself with the right people you find yourself becoming more healthy, wealthy, and happy.",
