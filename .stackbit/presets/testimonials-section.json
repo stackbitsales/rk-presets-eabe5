@@ -28,7 +28,10 @@
                             } 
                         },
                         "elementId": "",
-                        
+                        "styles": {
+                                "self": {
+                                }
+                            } 
                     }
                 ],
                 "styles": {
