@@ -251,7 +251,9 @@
                                 "text": "Learn how top tech companies have learned working remote using our product.",
                                 "featuredImage": {
                                     "$$type": "ImageBlock",
-                                    "url": "/images/faster.svg",
+                                    "url": {
+                                    "$$ref": "3ZuvCkX3BBUMzNIKY2dpzj"
+                                },
                                     "altText": "Item image"
                                 },
                                 "styles": {
