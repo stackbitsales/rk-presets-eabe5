@@ -37,6 +37,7 @@
             "data": {
                 "colors": "colors-c",
                 "backgroundImage": {
+                    "$$type"
                     "url": {
                         "$$ref": "6gKVhoYb6g7OpHqdyCXlM0"
                     },
