@@ -160,7 +160,7 @@
                         {
                             "$$type": "EmailFormControl",
                             "name": "email",
-
+                            "label": "",
                             "placeholder": "Your email",
                             "isRequired": true,
                             "width": "full"
