@@ -353,6 +353,7 @@
                                 }
                             }
                         ],
+                        "actions": [],
                         "columns": 3,
                         "enableHover": false,
                         "styles": {
