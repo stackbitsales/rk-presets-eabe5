@@ -878,7 +878,11 @@
                                 "$$ref": "5EJRvuPhpkMHyFT8u8aGkd"
                             },
                             "caption": "Team meeting",
-                            "altText": "Hero section image"
+                            "altText": "Hero section image",
+                            "styles": {
+                                "self": {
+                                }
+                            } 
                         },
                         "styles": {
                             "self": {
