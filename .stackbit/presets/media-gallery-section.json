@@ -5,7 +5,7 @@
             "label": "4 columns light wide",
             "thumbnail": "images/media-gallery-light-4-col.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-h",
                 "elementId": "",
                 "title": "Gallery",
                 "subtitle": "This is the subtitle",
