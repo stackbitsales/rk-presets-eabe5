@@ -24,10 +24,10 @@
                         }   
                     }
                 ],
-                "spacing": 2,
+                "spacing": 3,
                 "columns": 4,
                 "aspectRatio": "16:9",
-                "imageSizePx": "250",
+                "imageSizePx": "240",
                 "showCaption": "false",
                 "enableHover": "false",
                 "styles": {
