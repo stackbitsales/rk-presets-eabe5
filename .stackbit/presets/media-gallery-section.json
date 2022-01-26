@@ -25,7 +25,9 @@
                     },
                     {
                         "$$type": "ImageBlock",
-                        "$$id": "5TLy1x1GVELhU4yjGTA6pq",
+                                                "url": {
+                            "$$ref": "5TLy1x1GVELhU4yjGTA6pq"
+                        },
                         "altText": "Work book cover 3",
                         "caption": "Gallery image 2",
                         "elementId": "",
