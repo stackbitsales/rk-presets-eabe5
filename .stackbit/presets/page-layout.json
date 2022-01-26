@@ -1205,6 +1205,7 @@
                                 {
                                     "$$type": "TextFormControl",
                                     "name": "name",
+                                    "label": "",
                                     "placeholder": "Your name",
                                     "isRequired": true,
                                     "width": "1/2"
@@ -1212,6 +1213,7 @@
                                 {
                                     "$$type": "EmailFormControl",
                                     "name": "email",
+                                    "label": "",
                                     "placeholder": "Your email",
                                     "isRequired": true,
                                     "width": "1/2"
@@ -1219,6 +1221,7 @@
                                 {
                                     "$$type": "TextFormControl",
                                     "name": "address",
+                                    "label": "",
                                     "placeholder": "Your home address",
                                     "isRequired": false,
                                     "width": "full"
