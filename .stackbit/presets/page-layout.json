@@ -938,6 +938,7 @@
                         "$$type": "HeroSection",
                         "colors": "colors-h",
                         "title": "We’re growing fast",
+                        "subtitle": "",
                         "text": "You should join us.",
                         "media": {
                             "$$type": "ImageBlock",
